@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+
+body{
+
+#nom{
+margin-right : 50px;
+
+}
+.message{
+width:500px;
+height:200px;
+vertical-align:top;
+}
+}

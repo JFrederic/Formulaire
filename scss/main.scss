@@ -1,0 +1,33 @@
+body{
+    background-color: #fafafa;
+
+    .main{
+
+
+        border: 1px solid black;
+        width: 700px;
+        margin-top: 50px;
+        border-color: #337ab7;
+
+
+    .page-header{
+      border-color: #337ab7;;
+    }
+      h1{
+        margin-right: 0px;
+        color: #337ab7;
+      }
+      .form-horizontal{
+        margin-top: 60px;
+
+        .control-label{
+          text-align: left;
+        }
+      }
+
+      .form-control{
+        width:60%;
+      }
+    }
+
+}

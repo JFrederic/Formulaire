@@ -1,0 +1,9 @@
+body {
+  background-color: pink; }
+
+body .message {
+  width: 500px;
+  height: 200px;
+  vertical-align: top; }
+
+/*# sourceMappingURL=main.css.map */

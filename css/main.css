@@ -1,0 +1,20 @@
+body {
+  background-color: #fafafa; }
+  body .main {
+    border: 1px solid black;
+    width: 700px;
+    margin-top: 50px;
+    border-color: #337ab7; }
+    body .main .page-header {
+      border-color: #337ab7; }
+    body .main h1 {
+      margin-right: 0px;
+      color: #337ab7; }
+    body .main .form-horizontal {
+      margin-top: 60px; }
+      body .main .form-horizontal .control-label {
+        text-align: left; }
+    body .main .form-control {
+      width: 60%; }
+
+/*# sourceMappingURL=main.css.map */
